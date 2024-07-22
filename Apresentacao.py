@@ -1,0 +1,7 @@
+nome = input('Qual seu nome: ')
+idade = input('Qual sua idade: ')
+mora = input('Mora em qual cidade: ')
+trabalho = input('Trabalha de que: ')
+esporte = input('Qual seu esporte favorito: ')
+musica = input('Qual estilo de musica voce mais gosta: ')
+print('Seu nome é {}, voce tem {} anos de idade, voce mora na cidade de {}, voce trabalha de {}, seu esporte favorito é {}, voce gosta de escutar {}, correto?'.format(nome, idade, mora, trabalho, esporte, musica))
